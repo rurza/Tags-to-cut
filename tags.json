@@ -1,11 +1,11 @@
 {
   "tags": [
-    "(Live)",
-    "[Live]",
-    "[demo]",
-    "(Demo)",
-    "[Bonus Track]",
-    "(Bonus Track)",
-    "* (Live *)"
+    "* (Live)",
+    "* [Live]",
+    "* [demo]",
+    "* (Demo)",
+    "* [Bonus Track]",
+    "* (Bonus Track)",
+    "* (Live*)"
   ]
 }
