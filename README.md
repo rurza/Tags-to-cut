@@ -5,4 +5,4 @@ Tags are in form of Regular expression strings. When user turn on filtering in p
 
 [Regular expression - Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)  
 [RegExr - great way to test your RegEx](http://regexr.com)  
-[Excample on RegExr](http://regexr.com/3dmic)
+[Example on RegExr](http://regexr.com/3dmic)
