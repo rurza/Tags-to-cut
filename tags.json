@@ -1,9 +1,9 @@
 {
   "tags": [
-    " .live.*$",
-    " .remastered.*$",
-    " .re-mastered.*$",
-    " .dub.*$",
+    " .Live.*$",
+    " .Remastered.*$",
+    " .Re-mastered.*$",
+    " .Dub.*$",
     " .outtake.*$",
     " .in-dub.*$",
     " .acoustic.*$",
