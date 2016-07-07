@@ -9,7 +9,7 @@
     " .acoustic.*$",
     " .long intro.*$",
     " .preview.*$",
-    " .demo.*$",
+    " .Demo.*$",
     " .Radio.*$",
     " .take .*$",
     " .outtake.*$",
