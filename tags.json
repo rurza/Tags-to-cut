@@ -48,6 +48,7 @@
     " .english version.*$",
     " .instrumental version.*$",
     " .karaoke version.*$",
-    " .karaoke edition.*$"
+    " .karaoke edition.*$",
+    " .remastered.$"
   ]
 }
