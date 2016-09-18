@@ -49,6 +49,9 @@
     " .instrumental version.*$",
     " .karaoke version.*$",
     " .karaoke edition.*$",
-    " .remastered.$"
+    " .remastered.$",
+    " .special limited.$",
+    " .ep.$",
+    " .*re-release.$"
   ]
 }
